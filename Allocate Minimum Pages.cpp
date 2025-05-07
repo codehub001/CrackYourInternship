@@ -8,7 +8,7 @@ class Solution {
         
         if(running > mid){
             cnt++;
-            running = v[i];
+            running = v[i];   
         }
     }
     return cnt >= member;
