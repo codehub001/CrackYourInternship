@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
         int n = nums.size();
